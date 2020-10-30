@@ -10,21 +10,21 @@ Island PVP: "off" #Turn on if you want PVP to be enabled on SkyBlock islands.
 
 Generator Ores:
   #COBBLESTONE
-  4: 60
+  2: 64
   #COAL
-  16: 8
+  2: 64
   #LAPIS
-  21: 8
+  4: 64
   #REDSTONE
-  73: 8
+  4: 64
   #IRON
-  15: 7
+  4: 64
   #GOLD
-  14: 4
+  3: 64
   #DIAMOND
-  56: 3
+  5: 64
   #EMERALD
-  129: 2
+  8: 64
 
 
 Starting Items:
